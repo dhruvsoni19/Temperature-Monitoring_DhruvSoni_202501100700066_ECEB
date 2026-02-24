@@ -9,6 +9,8 @@ Generate random values for temperature at every 2 second interval.
 Compare with the limits to display appropriate value.
 
 sample output
+
+
 Enter min temp: 23
 Enter max temp: 12
 
